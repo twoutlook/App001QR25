@@ -17,7 +17,7 @@
 
 ## 程式開發
 
-- bar code printer,Zebra *** 以 USB 連在二廠辦公室PC,進門到底
+- bar code printer,ZEBRA ZT230, 以 USB 連在二廠辦公室PC,進門到底
 - Kent 以 Bartender 打樣
 - Mark 在上述基礎上,先以 .NET 6 MVC 打樣, http://192.168.150.250:8060/Home/QrSample
 - 
